@@ -9,8 +9,7 @@ This project demonstrates the Turkish flag using WebGL, a powerful technology fo
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -19,8 +18,6 @@ This project showcases the Turkish flag through the use of WebGL technology. It 
 ## Demo
 
 You can view a live demo of the project [here](link_to_demo).
-
-![Turkish Flag Demo](demo_screenshot.png)
 
 ## Features
 
@@ -42,16 +39,3 @@ cd turkish-flag-webgl
 1. Open the `index.html` file in a modern web browser that supports WebGL.
 2. The Turkish flag will be displayed on the canvas.
 
-## Contributing
-
-Contributions to this project are welcome. Feel free to open issues or submit pull requests for any improvements or bug fixes.
-
-1. Fork the repository.
-2. Create a new branch for your feature/bugfix: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -am 'Add some feature'`.
-4. Push the branch to your fork: `git push origin feature-name`.
-5. Create a new pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
