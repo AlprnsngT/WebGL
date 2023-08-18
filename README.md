@@ -8,7 +8,6 @@ This project demonstrates the Turkish flag using WebGL, a powerful technology fo
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 
 
 ## Introduction
