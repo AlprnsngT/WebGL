@@ -29,7 +29,7 @@ You can view a live demo of the project https://github.com/AlprnsngT/WebGL/tree/
 ## Installation
 
 1. Clone this repository to your local machine using:
-git clone https://github.com/AlprnsngT/turkish-flag-webgl.git
+git clone [https://github.com/AlprnsngT/turkish-flag-webgl.git](https://github.com/AlprnsngT/WebGL.git)
 
 2. Navigate to the project directory:
 cd turkish-flag-webgl
